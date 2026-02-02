@@ -56,6 +56,30 @@ The goal is to demonstrate the effectiveness of transfer learning compared to tr
 
 ---
 
+## 📄 Research Paper
+
+This work has been published as a technical report on ResearchGate:
+
+**Mushtaq Saeed (2026).** "Comparative Analysis of CNN Architectures and Transfer Learning for Flower Species Classification"
+
+📖 [Read the full paper on ResearchGate](https://www.researchgate.net/publication/400345840_Comparative_Analysis_of_CNN_Architectures_and_Transfer_Learning_for_Flower_Species_Classification)
+
+🔗 DOI: [10.13140/RG.2.2.14899.49444](https://doi.org/10.13140/RG.2.2.14899.49444)
+
+### Citation
+
+If you use this work, please cite:
+```
+@techreport{saeed2025flower,
+  title={Comparative Analysis of CNN Architectures and Transfer Learning for Flower Species Classification},
+  author={Saeed, Mushtaq},
+  year={2026},
+  institution={CECOS University},
+  doi={10.13140/RG.2.2.14899.49444}
+}
+```
+---
+
 ## 🏗️ Model Architectures
 
 ### Custom CNN
